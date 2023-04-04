@@ -1,0 +1,15 @@
+C:\Users\Kissl\OneDrive\Documentos\Programas C#\Algoritmo de floy\Algoritmo de floy\bin\Debug\net6.0\Algoritmo de floy.exe
+C:\Users\Kissl\OneDrive\Documentos\Programas C#\Algoritmo de floy\Algoritmo de floy\bin\Debug\net6.0\Algoritmo de floy.deps.json
+C:\Users\Kissl\OneDrive\Documentos\Programas C#\Algoritmo de floy\Algoritmo de floy\bin\Debug\net6.0\Algoritmo de floy.runtimeconfig.json
+C:\Users\Kissl\OneDrive\Documentos\Programas C#\Algoritmo de floy\Algoritmo de floy\bin\Debug\net6.0\Algoritmo de floy.dll
+C:\Users\Kissl\OneDrive\Documentos\Programas C#\Algoritmo de floy\Algoritmo de floy\bin\Debug\net6.0\Algoritmo de floy.pdb
+C:\Users\Kissl\OneDrive\Documentos\Programas C#\Algoritmo de floy\Algoritmo de floy\obj\Debug\net6.0\Algoritmo de floy.csproj.AssemblyReference.cache
+C:\Users\Kissl\OneDrive\Documentos\Programas C#\Algoritmo de floy\Algoritmo de floy\obj\Debug\net6.0\Algoritmo de floy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kissl\OneDrive\Documentos\Programas C#\Algoritmo de floy\Algoritmo de floy\obj\Debug\net6.0\Algoritmo de floy.AssemblyInfoInputs.cache
+C:\Users\Kissl\OneDrive\Documentos\Programas C#\Algoritmo de floy\Algoritmo de floy\obj\Debug\net6.0\Algoritmo de floy.AssemblyInfo.cs
+C:\Users\Kissl\OneDrive\Documentos\Programas C#\Algoritmo de floy\Algoritmo de floy\obj\Debug\net6.0\Algoritmo de floy.csproj.CoreCompileInputs.cache
+C:\Users\Kissl\OneDrive\Documentos\Programas C#\Algoritmo de floy\Algoritmo de floy\obj\Debug\net6.0\Algoritmo de floy.dll
+C:\Users\Kissl\OneDrive\Documentos\Programas C#\Algoritmo de floy\Algoritmo de floy\obj\Debug\net6.0\refint\Algoritmo de floy.dll
+C:\Users\Kissl\OneDrive\Documentos\Programas C#\Algoritmo de floy\Algoritmo de floy\obj\Debug\net6.0\Algoritmo de floy.pdb
+C:\Users\Kissl\OneDrive\Documentos\Programas C#\Algoritmo de floy\Algoritmo de floy\obj\Debug\net6.0\Algoritmo de floy.genruntimeconfig.cache
+C:\Users\Kissl\OneDrive\Documentos\Programas C#\Algoritmo de floy\Algoritmo de floy\obj\Debug\net6.0\ref\Algoritmo de floy.dll

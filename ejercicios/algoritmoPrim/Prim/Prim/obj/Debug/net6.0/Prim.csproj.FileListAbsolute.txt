@@ -1,0 +1,15 @@
+C:\Users\El amor de tu vida\Desktop\codePRIM\Prim\Prim\bin\Debug\net6.0\Prim.exe
+C:\Users\El amor de tu vida\Desktop\codePRIM\Prim\Prim\bin\Debug\net6.0\Prim.deps.json
+C:\Users\El amor de tu vida\Desktop\codePRIM\Prim\Prim\bin\Debug\net6.0\Prim.runtimeconfig.json
+C:\Users\El amor de tu vida\Desktop\codePRIM\Prim\Prim\bin\Debug\net6.0\Prim.dll
+C:\Users\El amor de tu vida\Desktop\codePRIM\Prim\Prim\bin\Debug\net6.0\Prim.pdb
+C:\Users\El amor de tu vida\Desktop\codePRIM\Prim\Prim\obj\Debug\net6.0\Prim.csproj.AssemblyReference.cache
+C:\Users\El amor de tu vida\Desktop\codePRIM\Prim\Prim\obj\Debug\net6.0\Prim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\El amor de tu vida\Desktop\codePRIM\Prim\Prim\obj\Debug\net6.0\Prim.AssemblyInfoInputs.cache
+C:\Users\El amor de tu vida\Desktop\codePRIM\Prim\Prim\obj\Debug\net6.0\Prim.AssemblyInfo.cs
+C:\Users\El amor de tu vida\Desktop\codePRIM\Prim\Prim\obj\Debug\net6.0\Prim.csproj.CoreCompileInputs.cache
+C:\Users\El amor de tu vida\Desktop\codePRIM\Prim\Prim\obj\Debug\net6.0\Prim.dll
+C:\Users\El amor de tu vida\Desktop\codePRIM\Prim\Prim\obj\Debug\net6.0\refint\Prim.dll
+C:\Users\El amor de tu vida\Desktop\codePRIM\Prim\Prim\obj\Debug\net6.0\Prim.pdb
+C:\Users\El amor de tu vida\Desktop\codePRIM\Prim\Prim\obj\Debug\net6.0\Prim.genruntimeconfig.cache
+C:\Users\El amor de tu vida\Desktop\codePRIM\Prim\Prim\obj\Debug\net6.0\ref\Prim.dll
